@@ -1,0 +1,25 @@
+html{
+  background-color: red;
+}
+
+@media (min-width: 300px) {
+  html {
+    background-color: blue;
+  }
+}
+
+.title{
+  font-size: 100px;
+  color: black;
+}
+
+.special {
+  font-size: 20px;
+  color: blue;
+}
+
+p {
+  
+  color:white;
+  font-size: large;
+}

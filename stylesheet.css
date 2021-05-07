@@ -1,0 +1,69 @@
+h1 {
+    color: rgb(181, 190, 153);
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    
+    
+}
+
+.out:hover{
+    opacity: 0;
+}
+
+.in:hover{
+    opacity: 100;
+    background-image: url("images/iniciar 1.jpg");
+}
+
+span:hover {
+    opacity: 0;
+}
+
+h3 {
+    color:rgb(192, 170, 170);
+    border: 1px solid white;
+}
+
+html {
+ background-color: black;
+ 
+}
+
+p{
+    color: white;
+}
+
+.title {
+    color: rgb(181, 190, 153);
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+.button {
+    background-image: url(iniciar1.jpg);
+    height: 75px;
+    width: 150px;
+}
+
+.button:hover {
+    background-image: url(iniciar0.jpg);
+    height: 75px;
+    width: 150px;
+}
+
+.link {
+    height: 75px;
+    width: 150px;
+}
+
+a {
+    height: 75;
+    width: 150;
+}
+
+.outer {
+    height: 75;
+    width: 150;
+}
