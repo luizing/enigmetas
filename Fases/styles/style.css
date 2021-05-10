@@ -31,3 +31,8 @@ a{
 .codigo {
     color: black;
 }
+
+.aviso {
+    font-size: x-large;
+    color: red;
+}
