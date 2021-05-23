@@ -1,0 +1,39 @@
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h3 {
+    color:rgb(192, 170, 170)
+}
+
+html {
+ background-color: black;
+ 
+}
+
+.hidden {
+    color: black;
+}
+
+p{
+    color:white;
+    font-size: large;
+    
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    cursor: text;
+}
+
+.codigo {
+    color: black;
+}
+
+.aviso {
+    font-size: medium;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
