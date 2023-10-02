@@ -5,3 +5,5 @@ Mas com um toque pessoal meu. </br>
 
 
 https://luizing.github.io/enigmetas
+
+Você até pode ver todas as respostas nesse repositório, mas qual seria a graça?
